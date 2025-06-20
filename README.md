@@ -85,7 +85,7 @@ Unition\_英商優潠科技有限公司台灣分公司
 
 ---
 
-## 🏢 公司簡介（選填）
+## 🏢 公司簡介
 
 ```
 LinkedIn：https://www.linkedin.com/company/unitionglobal/
